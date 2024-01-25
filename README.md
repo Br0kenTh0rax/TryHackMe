@@ -30,7 +30,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting) / Private 
 
 **Introductory CTFs to get your feet wet**
-- [] [OHsint](https://tryhackme.com/room/ohsint)
+- [ ] [OHsint](https://tryhackme.com/room/ohsint)
 
 ## Level 2 - Tooling
 - [ ] [Tmux](https://tryhackme.com/room/rptmux)
